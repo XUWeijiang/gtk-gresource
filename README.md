@@ -1,5 +1,9 @@
 # gresource Builder for GTK themes
 
+Included themes `./build`:
+
+> Arc  Arc-Dark  EvoPop  Pop  Pop-dark  Vertex
+
 ```bash
 $ git clone https://github.com/devpytech/gtk-gresource.git
 $ cd gtk-gresource

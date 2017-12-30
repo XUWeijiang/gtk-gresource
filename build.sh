@@ -7,7 +7,7 @@ if [ ! -d "/usr/share/themes/$NAME" ]; then
   exit 1
 fi
 
-rm -rf ./build
+#rm -rf ./build
 mkdir ./build
 
 ./build-theme.sh $NAME "/usr/share/themes/$NAME/gnome-shell"
