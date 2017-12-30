@@ -1,19 +1,14 @@
-# Arc Theme: gresource
+# gresource Builder for GTK themes
 
-> NOTE: You should install Arc Theme on your computer first.
+```bash
+$ git clone https://github.com/devpytech/gtk-gresource.git
+$ cd gtk-gresource
 
-Tested on Arch Linux with package [arc-gtk-theme](https://www.archlinux.org/packages/community/any/arc-gtk-theme/) installed.
-
-``` shell
-$ git clone https://github.com/lixiaoyan/arc-theme-gresource.git
-$ cd arc-theme-gresource
-
-$ ./build.sh
-
+# Replace Arc with the theme you want to use
+$ ./build.sh Arc
 $ ./switch.sh Arc
-$ ./switch.sh Arc-Dark
 ```
 
-## TODO
+## Also see [gresource-extract](https://github.com/devpytech/scripts/tree/master/gresource-extract)
 
-- [ ] Custom background
+This tool can help you edit your login screen theme if you want to add a background or change the font.
