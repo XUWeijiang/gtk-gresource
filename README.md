@@ -1,4 +1,4 @@
-# gresource Builder for GTK themes
+# GRESOURCE Builder for GTK themes
 
 Included themes `./build`:
 
