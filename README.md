@@ -1,4 +1,4 @@
-# gresource Builder for GTK themes
+# GRESOURCE Builder for GTK themes
 
 ```bash
 $ git clone https://github.com/devpytech/gtk-gresource.git
