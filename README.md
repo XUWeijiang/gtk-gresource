@@ -1,6 +1,6 @@
 # [Article](https://www.devpy.me/the-best-linux-lockscreen/)
 
-# GRESOURCE Builder for GTK themes
+# GRESOURCE Builder for GTK login themes
 
 Included themes `./build`:
 
