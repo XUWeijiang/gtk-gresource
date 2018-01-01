@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/org/gnome/shell/theme">
+    <file>gnome-classic.css</file>
+    <file>assets/more-results.svg</file>
+    <file>assets/toggle-on.svg</file>
+    <file>assets/page-indicator-inactive.svg</file>
+    <file>assets/calendar-arrow-left.svg</file>
+    <file>assets/page-indicator-hover.svg</file>
+    <file>assets/checkbox-off-focused.svg</file>
+    <file>assets/page-indicator-active.svg</file>
+    <file>assets/corner-ripple-ltr.png</file>
+    <file>assets/process-working.svg</file>
+    <file>assets/corner-ripple-rtl.png</file>
+    <file>assets/noise-texture.png</file>
+    <file>assets/no-events.svg</file>
+    <file>assets/calendar-arrow-right.svg</file>
+    <file>assets/checkbox.svg</file>
+    <file>assets/page-indicator-checked.svg</file>
+    <file>assets/toggle-off.svg</file>
+    <file>assets/close-window.svg</file>
+    <file>assets/dash-placeholder.svg</file>
+    <file>assets/no-notifications.svg</file>
+    <file>assets/checkbox-focused.svg</file>
+    <file>assets/checkbox-off.svg</file>
+    <file>gnome-shell.css</file>
+  </gresource>
+</gresources>
